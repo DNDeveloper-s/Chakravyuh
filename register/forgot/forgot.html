@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Forgot | Spardha'19</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="forgot.css">
+</head>
+
+<body style='background-color: transparent'>
+    <div class="container forgot-box">
+        <h3 style="text-align: center; color: #6db549; font-family: 'League Spartan'; font-size: 30px;"> FORGOT PASSWORD </h3>
+        <hr>
+        <div class="col-sm-12"></div>        <div class="col-sm-12">
+            <div class="alert alert-success">
+                Click <a href="../../register.php?page=register#content" target="_parent">here</a> to <b>sign up</b>.<br>
+                Click <a href="..\..\register-1.html?page=login#content" target="_parent">here</a> to <b>login</b>.
+            </div>
+            <div class="alert alert-info">
+                Enter the details below and confirm using OTP Verification.
+            </div>
+        </div>
+        <form class="form-horizontal" role="form" method="post" action="" onsubmit="return validate(this);" novalidate="">
+            <div class="col-sm-12" style="margin-top: 10px;">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title text-center" style="color:#59ba00;">
+                            <a style="color:#59ba00;"><i class="fa fa-user fa-lg"></i>&nbsp; Login Details </a>
+                        </h4>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="username">Username/Email:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="text" class="form-control" id="username" name="username" onfocus='onInput("username")' oninput='onInput("username")' onblur='onLeave("username")' value="" placeholder="Enter your username or email" required="">
+                                        <i class="fa fa-at fa-lg form-control-feedback"></i>
+                                    <span id="username-icon"></span>
+                                </div>
+                                <div class="error" id="username-error"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="institute">Institute Name:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="text" class="form-control" id="institute" name="institute" onfocus='onInput("institute")' oninput='onInput("institute")' onblur='onLeave("institute")' value="" list="instituteList" placeholder="Select your Institute & City" required=""><i class="fa fa-building fa-lg form-control-feedback"></i>
+                                    <span id="institute-icon"></span>
+                                </div>
+                                <div class="error" id="institute-error"></div>
+                                <datalist id="instituteList"></datalist>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="password1">New Password:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="password" class="form-control" id="password1" name="password1" onfocus='onInput("password1")' oninput='onInput("password1")' onblur='onLeave("password1")' value="" placeholder="Enter the New Password" required=""><i class="fa fa-key fa-lg form-control-feedback"></i>
+                                    <span id="password1-icon"></span>
+                                </div>
+                                <div class="error" id="password1-error"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="password2">Password Confirmation:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="password" class="form-control" id="password2" name="password2" onfocus='onInput("password2")' oninput='onInput("password2")' onblur='onLeave("password2")' value="" placeholder="Confirm your Password" required=""><i class="fa fa-key fa-lg form-control-feedback"></i>
+                                    <span id="password2-icon"></span>
+                                </div>
+                                <div class="error" id="password2-error"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="form-group">
+                                        <div id="finalerror1" class="alert alert-danger" style="margin-top: 20px; display: none;"></div>
+                    <div id="finalsuccess1" class="alert alert-success" style="margin-top: 20px; display: none;"></div>
+                    <hr>
+                    <button id="submit1" type="submit1" name="submit1" class="btn btn-default btn-success btn-block" style="font-size: 16px; font-family: 'League Spartan'; padding-top: 10px;"> &nbsp;
+                        <i class="fa fa-paper-plane"></i> SUBMIT
+                    </button>
+                </div>
+            </div>
+        </form>
+        <form class="form-horizontal" role="form" method="post" action="" onsubmit="return verifyOTP(this);" novalidate="">
+            <div id="OTPdiv" class="col-sm-12" style="padding-top: 25px; text-align: center; display: none;">
+                <div id="finalsuccess2" class="alert alert-success" style="margin-top: 20px; display: none;">
+                    OTP has been sent to your email address: <b></b><br> Please enter the OTP below to verify.
+                    <br><b>NOTE: </b>Check your spam folder if you didn't receive the email.
+                    </div><div id="finalerror2" class="alert alert-danger" style="margin-top: 20px; display: none;"></div>                <div class="form-group">
+                    <label>OTP:&nbsp;<span style="color: red">*</span></label>
+                    <input type="text" class="form-control" placeholder="Enter the OTP" id="OTPTextBox" name="OTPTextBox" style="width: auto;">
+                    <button id="submit2" type="submit2" name="submit2" class="btn btn-default btn-success" style="font-size: 16px; font-family: 'League Spartan'; padding-top: 10px; padding-right: 23px;"> &nbsp;
+                        <i class="fa fa-check"></i> VERIFY
+                    </button>
+                </div>
+            </div>
+        </form>
+        <script>
+            $("document").ready(function () {
+                let dropdown = $('#instituteList');
+                dropdown.empty();
+                dropdown.append('<option selected="true" disabled>Select your institute</option>');
+                dropdown.prop('selectedIndex', 0);
+                const url2 = '../institutelist.json';
+                $.getJSON(url2, function (data) {
+                    $.each(data, function (key, entry) {
+                        dropdown.append($('<option></option>').attr('value', entry.abbreviation)
+                            .text(entry.name));
+                    })
+                });
+            });
+        </script>
+        <script src="forgot.js"></script>
+        <script type="text/javascript">
+            $("#finalerror1").fadeOut();
+            $("#finalerror2").fadeOut();
+            $("#finalsuccess1").fadeOut();
+            $("#finalsuccess2").fadeIn();
+            </script>    </div>
+</body>
+
+</html>

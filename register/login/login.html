@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Login | Spardha'19</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body style='background-color: transparent'>
+    <div class="container login-box">
+        <h3 style="text-align: center; color: #6db549; font-family: 'League Spartan'; font-size: 30px;"> LOGIN </h3>
+        <hr>
+        <div class="col-sm-12"></div>        <div class="col-sm-12">
+                        <div class="alert alert-success">
+                <b>Account not yet created?</b> Click <a href="../../register.php?page=register#content" target="_parent">here</a> to create one.<br>
+                <b>Forgot Password?</b> Click <a href="..\..\register-2.html?page=forgot#content" target="_parent">here</a>
+            </div>
+        </div>
+        <form class="form-horizontal" role="form" method="post" action="" onsubmit="return validate(this);" novalidate="">
+            <div class="col-sm-12" style="margin-top: 10px;">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title text-center" style="color:#59ba00;">
+                            <a style="color:#59ba00;"><i class="fa fa-user fa-lg"></i>&nbsp; Login Details </a>
+                        </h4>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="username">Username/Email:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="text" class="form-control" id="username" name="username" onfocus='onInput("username")' oninput='onInput("username")' onblur='onLeave("username")' value="" placeholder="Enter your username or email" required="">
+                                        <i class="fa fa-at fa-lg form-control-feedback"></i>
+                                    <span id="username-icon"></span>
+                                </div>
+                                <div class="error" id="username-error"></div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label class="control-label heading-color" for="password">Password:&nbsp;<span style="color: red">*</span></label>
+                                <div class="inputWithIcon">
+                                    <input type="password" class="form-control" id="password" name="password" onfocus='onInput("password")' oninput='onInput("password")' onblur='onLeave("password")' value="" placeholder="Enter the Password to login" required=""><i class="fa fa-key fa-lg form-control-feedback"></i>
+                                    <span id="password-icon"></span>
+                                </div>
+                                <div class="error" id="password-error"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="form-group">
+                                        <div id="finalerror" class="alert alert-danger" style="margin-top: 20px; display: none;"></div>
+                    <hr>
+                    <button id="login" type="login" name="login" class="btn btn-default btn-success btn-block" style="font-size: 16px; font-family: 'League Spartan'; padding-top: 10px;"> &nbsp;
+                        <i class="fa fa-paper-plane"></i> LOGIN
+                    </button>
+                </div>
+            </div>
+        </form>
+        <script src="login.js"></script>
+            </div>
+</body>
+
+</html>

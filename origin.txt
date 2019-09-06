@@ -1,0 +1,1612 @@
+Uri: https://spardha.co.in/
+File Name: c:\Downloaded Web Sites\spardha.co.in\index.htm
+Content Type: text/html
+
+Uri: https://spardha.co.in/images/bg/bg_1.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_2.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_3.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_3.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_4.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_4.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_basketball.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_basketball.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_football1.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_football1.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/css/open-iconic-bootstrap.min.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\open-iconic-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/animate.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\animate.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/aos.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\aos.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/bootstrap-datepicker.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/jquery.timepicker.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\jquery.timepicker.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/flaticon.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\flaticon.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/icomoon.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\icomoon.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/css/style.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\style.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/images/logos/spardha-small.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\logos\spardha-small.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/index.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\index.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/events.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\events.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/pdf/RuleBook.pdf
+File Name: c:\Downloaded Web Sites\spardha.co.in\pdf\RuleBook.pdf
+Content Type: application/pdf
+
+Uri: https://spardha.co.in/guests.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\guests.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/sponsors.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\sponsors.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/gallery.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/team.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\team.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/ca.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\ca.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/images/logos/spardha-small-white.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\logos\spardha-small-white.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/logos/spardha-white.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\logos\spardha-white.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/trophy.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\trophy.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/newspaper.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\newspaper.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/accessory.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\accessory.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery-migrate-3.0.1.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery-migrate-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/popper.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.stellar.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/aos.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\aos.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.animateNumber.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/bootstrap-datepicker.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/jquery.timepicker.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\jquery.timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/scrollax.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\scrollax.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/google-map.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\google-map.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/js/main.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\main.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic.woff
+Content Type: application/x-font-woff
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.otf
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic.otf
+Content Type: application/x-font-otf
+
+Uri: https://spardha.co.in/fonts/open-iconic/open-iconic.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\open-iconic\open-iconic.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/ionicons/fonts/ionicons.woff2?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\ionicons\fonts\ionicons.woff2
+Content Type: 
+
+Uri: https://spardha.co.in/fonts/ionicons/fonts/ionicons.woff?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\ionicons\fonts\ionicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://spardha.co.in/fonts/ionicons/fonts/ionicons.ttf?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\ionicons\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spardha.co.in/fonts/ionicons/fonts/ionicons.svg?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/fonts/flaticon/font/Flaticon.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/flaticon/font/Flaticon.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/flaticon/font/Flaticon.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\flaticon\font\Flaticon.woff
+Content Type: application/x-font-woff
+
+Uri: https://spardha.co.in/fonts/flaticon/font/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\flaticon\font\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spardha.co.in/fonts/flaticon/font/Flaticon.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/fonts/icomoon/icomoon.eot?6tt51o
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/fonts/icomoon/icomoon.ttf?6tt51o
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\icomoon\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spardha.co.in/fonts/icomoon/icomoon.woff?6tt51o
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\icomoon\icomoon.woff
+Content Type: application/x-font-woff
+
+Uri: https://spardha.co.in/fonts/icomoon/icomoon.svg?6tt51o
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/fonts/leaguespartan.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\fonts\leaguespartan.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spardha.co.in/images/bg/bg_events.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_events.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/events/events.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\events.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/events/images/aquatics.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\aquatics.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/athletics.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\athletics.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/badminton.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\badminton.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/basketball.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\basketball.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/boxing.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\boxing.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/rules.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\rules.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/events/images/trophy.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\trophy.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/events/images/contacts.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\contacts.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/events/images/carrom.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\carrom.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/chess.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\chess.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/cricket.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\cricket.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/football.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\football.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/handball.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\handball.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/hockey.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\hockey.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/kabaddi.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\kabaddi.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/kho-kho.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\kho-kho.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/powerlifting.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\powerlifting.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/squash.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\squash.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/table-tennis.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\table-tennis.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/taekwondo.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\taekwondo.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/tennis.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\tennis.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/volleyball.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\volleyball.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/weightlifting.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\weightlifting.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/lan-gaming.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\lan-gaming.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/events/images/informals.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\images\informals.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/question.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\question.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/rules.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\rules.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/js/bootstrap-modal.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\js\bootstrap-modal.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/events/events.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\events\events.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/images/testimonials/testi-7.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-7.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-8.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-8.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-9.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-9.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-1.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-2.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-2.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-3.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-3.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-4.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-4.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-5.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-5.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/testimonials/testi-6.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\testimonials\testi-6.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/bg/bg_football.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\bg_football.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/guests/18.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\18.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/6.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\6.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/16.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\16.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/14.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\14.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/23.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\23.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/12.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\12.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/5.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\5.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/24.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\24.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/4.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\4.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/21.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\21.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/1.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\1.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/15.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\15.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/10.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\10.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/13.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\13.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/9.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\9.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/17.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\17.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/11.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\11.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/8.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\8.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/19.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\19.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/2.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\2.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/3.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\3.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/20.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\20.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/7.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\7.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/guests/22.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\guests\22.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/videos/1.mp4
+File Name: c:\Downloaded Web Sites\spardha.co.in\videos\1.mp4
+Content Type: video/mp4
+
+Uri: https://spardha.co.in/images/sponsors/2018/jkcement.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\jkcement.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/paytm.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\paytm.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/pepsi.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\pepsi.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/puma.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\puma.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/redbull.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\redbull.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/reebok.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\reebok.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/mahindra.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\mahindra.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/hero.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\hero.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/fastrack.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\fastrack.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/ntpc.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ntpc.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/sail.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\sail.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/iocl.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\iocl.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/hpcl.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\hpcl.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/orientalbank.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\orientalbank.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/others/adityabirla.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\adityabirla.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/swiggy.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\swiggy.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/others/amul.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\amul.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/boi.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\boi.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/ucobank.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ucobank.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/bigfm.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\bigfm.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/vlcc.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\vlcc.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/zebronics.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\zebronics.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/heini.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\heini.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/aquvio.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\aquvio.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/bankofbaroda.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\bankofbaroda.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/bsa.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\bsa.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/ccd.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\ccd.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/cosco.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\cosco.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/hindustantimes.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\hindustantimes.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/toi.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\toi.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/sbi.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\sbi.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/hercules.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\hercules.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/geosenz.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\geosenz.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/godrej.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\godrej.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/dominos.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\dominos.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/hp.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\hp.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/inext.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\inext.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/intel.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\intel.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/itc.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\itc.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/jabong.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\jabong.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/microsoft.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\microsoft.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/grabon.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\grabon.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/pizza.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\pizza.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/uspolo.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\uspolo.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/smilefoundation.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\smilefoundation.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/upsacs.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\upsacs.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/toniguy.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\toniguy.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/fisto.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\fisto.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/ntd.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ntd.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/unitefoundation.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\unitefoundation.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/peta.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\peta.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/newstimes.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\newstimes.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/indian-idol.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\indian-idol.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/geet.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\geet.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/dainikjagran.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\dainikjagran.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/amarujala.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\amarujala.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/manpasand.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\manpasand.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/byjus.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\byjus.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/ambition-gurukul.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ambition-gurukul.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/ims.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ims.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/extramarks.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\extramarks.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/ies-master.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ies-master.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/others/aakash.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\aakash.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/wac.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\wac.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/doorpix.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\doorpix.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/heritage.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\heritage.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/diamond.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\diamond.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/grapevine.jpeg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\grapevine.jpeg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/chetmani.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\chetmani.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/the-education-tree.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\the-education-tree.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/others/br.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\br.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/btw.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\btw.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/belgian.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\belgian.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/gopaljee.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\gopaljee.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/knockout.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\knockout.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/presto.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\presto.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/doodh-booth.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\doodh-booth.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/2018/ming-garden.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\ming-garden.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/2018/basant-bahar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\2018\basant-bahar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/sponsors/others/infotec.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\infotec.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/oranz.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\oranz.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/redfm.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\redfm.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/sapphire.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\sapphire.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/seed.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\seed.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/shecreations.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\shecreations.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/webcom.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\webcom.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/siti.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\siti.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/souledstore.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\souledstore.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/sponsors/others/vmart.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\sponsors\others\vmart.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/gallery/gallery-grid.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\gallery-grid.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/gallery/images/opening/43.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\opening\43.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/opening/44.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\opening\44.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/opening/45.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\opening\45.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/opening/46.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\opening\46.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/opening/47.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\opening\47.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/marshall/51.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\marshall\51.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/marshall/52.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\marshall\52.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/marshall/53.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\marshall\53.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/run/54.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\run\54.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/run/55.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\run\55.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/run/56.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\run\56.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/saturnalia/57.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\saturnalia\57.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/saturnalia/58.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\saturnalia\58.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/saturnalia/59.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\saturnalia\59.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/udbhav/60.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\udbhav\60.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/udbhav/61.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\udbhav\61.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/udbhav/62.jpeg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\udbhav\62.jpeg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/preevents/udbhav/63.jpeg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\preevents\udbhav\63.jpeg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/closing/22.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\closing\22.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/closing/23.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\closing\23.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/closing/24.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\closing\24.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/closing/25.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\closing\25.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/closing/26.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\closing\26.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/aquatics/1.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\aquatics\1.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/aquatics/2.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\aquatics\2.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/athletics/3.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\athletics\3.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/athletics/4.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\athletics\4.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/badminton/5.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\badminton\5.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/badminton/6.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\badminton\6.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/badminton/7.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\badminton\7.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/basketball/8.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\basketball\8.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/basketball/9.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\basketball\9.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/basketball/10.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\basketball\10.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/basketball/11.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\basketball\11.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/basketball/12.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\basketball\12.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/boxing/13.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\boxing\13.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/boxing/14.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\boxing\14.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/boxing/15.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\boxing\15.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/carrom/16.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\carrom\16.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/carrom/17.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\carrom\17.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/carrom/18.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\carrom\18.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/chess/19.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\chess\19.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/chess/20.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\chess\20.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/chess/21.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\chess\21.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/cricket/27.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\cricket\27.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/cricket/28.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\cricket\28.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/cricket/29.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\cricket\29.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/football/30.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\football\30.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/football/31.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\football\31.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/football/32.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\football\32.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/handball/33.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\handball\33.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/handball/34.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\handball\34.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/handball/35.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\handball\35.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/hockey/36.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\hockey\36.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/hockey/37.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\hockey\37.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/hockey/38.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\hockey\38.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-kabaddi/71.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-kabaddi\71.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-kabaddi/72.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-kabaddi\72.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-kabaddi/73.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-kabaddi\73.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/khokho/39.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\khokho\39.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/khokho/40.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\khokho\40.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/khokho/41.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\khokho\41.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/khokho/42.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\khokho\42.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/powerlifting/48.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\powerlifting\48.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/powerlifting/49.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\powerlifting\49.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/powerlifting/50.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\powerlifting\50.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tabletennis/74.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tabletennis\74.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tabletennis/75.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tabletennis\75.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tabletennis/76.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tabletennis\76.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/taekwondo/64.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\taekwondo\64.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/taekwondo/65.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\taekwondo\65.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/taekwondo/66.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\taekwondo\66.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tennis/77.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tennis\77.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tennis/78.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tennis\78.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/z-tennis/79.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\z-tennis\79.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/volleyball/67.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\volleyball\67.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/volleyball/68.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\volleyball\68.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/volleyball/69.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\volleyball\69.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/gallery/images/volleyball/70.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\gallery\images\volleyball\70.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/sakshammaheshwari.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\sakshammaheshwari.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/yashagarwal.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\yashagarwal.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/rahulmeena.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\rahulmeena.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/deepchauhan.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\deepchauhan.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/joharisanjay.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\joharisanjay.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/yavnikachauhan.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\yavnikachauhan.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/indraneelsahu.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\indraneelsahu.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/abhishekpatil.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\abhishekpatil.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/sidheswarmajhi.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\sidheswarmajhi.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/mrigankkumar.JPG
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\mrigankkumar.JPG
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/rohitsaxena.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\rohitsaxena.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/kartikgupta.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\kartikgupta.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/anvesharajan.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\anvesharajan.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/arihantsukhlecha.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\arihantsukhlecha.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/pulkitkumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\pulkitkumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/harshbaldi.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\harshbaldi.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/abhijeetbhatt.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\abhijeetbhatt.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/aurcheetpankaj.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\aurcheetpankaj.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/anushkaagrawal.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\anushkaagrawal.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/venkateshkamtham.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\venkateshkamtham.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/abhayjyotsingh.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\abhayjyotsingh.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/divyanshuupadhyay.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\divyanshuupadhyay.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/ravikantmeena.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\ravikantmeena.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/suyashratna.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\suyashratna.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/rohitkumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\rohitkumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/vikaskumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\vikaskumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/yogendrameena.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\yogendrameena.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/navneetkumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\navneetkumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/krishnakant.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\krishnakant.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/arihantsingh.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\arihantsingh.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/pankajjha.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\pankajjha.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/piyushmaurya.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\piyushmaurya.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/ashishkumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\ashishkumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/sachinsrivastava.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\sachinsrivastava.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/prakharbhatnagar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\prakharbhatnagar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/mayankkankas.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\mayankkankas.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/avinashkumar.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\avinashkumar.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/gautamlal.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\gautamlal.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/rajput.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\rajput.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/team/rajeshmeena.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\team\rajeshmeena.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/images/icons/gain.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\gain.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/boy.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\boy.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/incentive.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\incentive.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/images/icons/eligible.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\eligible.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/404.html
+File Name: c:\Downloaded Web Sites\spardha.co.in\404.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register.php?page=signup
+File Name: c:\Downloaded Web Sites\spardha.co.in\register.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register/signup/signup.php
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\signup\signup.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://spardha.co.in/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://spardha.co.in/cdn-cgi/images/error_icons.png
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\spardha.co.in\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://spardha.co.in/css/404.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\css\404.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/images/icons/404.gif
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\icons\404.gif
+Content Type: image/gif
+
+Uri: https://spardha.co.in/register/signup/signup.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\signup\signup.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/register.php?page=login
+File Name: c:\Downloaded Web Sites\spardha.co.in\register-1.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register/signup/signup.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\signup\signup.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/images/bg/404.jpg
+File Name: c:\Downloaded Web Sites\spardha.co.in\images\bg\404.jpg
+Content Type: image/jpeg
+
+Uri: https://spardha.co.in/register/login/login.php
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\login\login.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register/login/login.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\login\login.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/register.php?page=forgot
+File Name: c:\Downloaded Web Sites\spardha.co.in\register-2.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register/login/login.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\login\login.js
+Content Type: application/javascript
+
+Uri: https://spardha.co.in/register/forgot/forgot.php
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\forgot\forgot.html
+Content Type: text/html
+
+Uri: https://spardha.co.in/register/forgot/forgot.css
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\forgot\forgot.css
+Content Type: text/css
+
+Uri: https://spardha.co.in/register/forgot/forgot.js
+File Name: c:\Downloaded Web Sites\spardha.co.in\register\forgot\forgot.js
+Content Type: application/javascript
+
